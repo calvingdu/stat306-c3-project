@@ -1,0 +1,11 @@
+"","P_Value"
+"(Intercept)",0.00215251859462791
+"x2_house_age",2.57943565716295e-10
+"x4_number_of_convenience_stores",0.109793348760712
+"x5_latitude",8.34878457801085e-09
+"x6_longitude",0.150391980809374
+"neighborhood",0.208332963967531
+"distance_to_mrt_category250m_500m",0.0167797808091654
+"distance_to_mrt_category500m_750m",0.0233073156500833
+"distance_to_mrt_category750m_1000m",6.5180523636154e-05
+"distance_to_mrt_categoryover_1000m",6.32647214874081e-16

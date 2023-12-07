@@ -1,0 +1,7 @@
+"","Min.","1st Qu.","Median","Mean","3rd Qu.","Max."
+"x2_house_age",0,8.5,15.9,17.522,27.6,43.8
+"x3_distance_to_the_nearest_mrt_station",23.383,289.325,492.231,1087.988,1455.798,6488.021
+"x4_number_of_convenience_stores",0,1,4,4.009,6,10
+"x5_latitude",24.932,24.963,24.971,24.969,24.977,25.015
+"x6_longitude",121.474,121.528,121.538,121.533,121.543,121.566
+"y_house_price_of_unit_area",7.6,27.7,38.5,38.012,46.6,117.5
